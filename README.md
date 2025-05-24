@@ -1,1 +1,0 @@
-# CS130_DB_PROJECT_DaewooTeams
