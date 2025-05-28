@@ -3,7 +3,7 @@ Saba Naz (ID:241095)
 
 ## 📋 Description:
 This folder contains the frontend implementation of my Daewoo bus seat reservation and management system, built using PHP, HTML, CSS, and SQL Server. It includes dynamic forms for seat booking, admin panel, bus scheduling, and more.
-
+<pre>
 ## 📂 Folder Structure:
 
 CS130_DB_PROJECT_DaewooTeams/
@@ -23,7 +23,7 @@ Phase3_Bonus_Frontend/
 ├── assets/ ← CSS/JS/image files
 ├── Screenshots/ ← Few Screenshots of frontend
 ├── dbconnect.php ← DB connection file
-
+</pre>
 
 ## ⚙️ How to Run the Forms:
 1. Install **XAMPP** to host locally.
