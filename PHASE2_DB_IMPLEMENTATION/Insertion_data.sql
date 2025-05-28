@@ -26,10 +26,10 @@ INSERT INTO STATIONS (station_name, location, city_id, contact_number)
 VALUES ('Lahore General Bus Stand', 'Badami Bagh', 6, '042-111-123456'),
        ('Karachi Bus Terminal', 'Sohrab Goth', 5, '021-111-654321'),
        ('Rawalpindi Faizabad Terminal', 'Faizabad', 10, '051-111-111111'),
-       ('Peshawar General Bus Stand', 'GT Road', 7, '091-111-222333'),
-       ('Multan Bus Stand', 'Vehari Chowk', 4, '061-111-333444'),
+       ('Peshawar General Bus Stand', 'GT Road', 8, '091-111-222333'),
+       ('Multan Bus Stand', 'Vehari Chowk', 7, '061-111-333444'),
        ('Faisalabad City Terminal', 'Jhang Road', 1, '041-111-555666'),
-       ('Quetta Bus Terminal', 'Sariab Road', 8, '081-111-777888'),
+       ('Quetta Bus Terminal', 'Sariab Road', 9, '081-111-777888'),
        ('Hyderabad Bus Terminal', 'Auto Bhan Road', 3, '022-111-888999'),
        ('Gujranwala General Bus Stand', 'GT Road', 2, '055-111-000111'),
        ('Sialkot Bus Terminal', 'Daska Road', 11, '052-111-222000');
