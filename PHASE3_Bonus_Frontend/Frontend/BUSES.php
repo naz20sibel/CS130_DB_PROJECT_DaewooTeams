@@ -19,14 +19,14 @@ if ($conn) {
         exit();
     }
 
-    // Build the query to fetch bus schedules based on selected route
+
     $query = "
     SELECT
         bs.schedule_id,
         b.bus_number,
         b.type,
         b.capacity,
-        fr.fare,  -- Now getting fare from FARE_RULES instead of BUS_SCHEDULES
+        fr.fare,  
         bs.available_seats,
         fs.station_name AS from_station,
         ts.station_name AS to_station,
