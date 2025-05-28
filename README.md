@@ -34,6 +34,23 @@ Phase3_Bonus_Frontend/
 http://localhost/Phase3_Bonus_Frontend/php_forms/index.php
 
 6. Ensure `dbconnect.php` has correct server credentials.
+7. For testing purpose, select route from these given ones to get available buses because some schedules are not added to show that if it is not available then search again box appears.
+
+<pre>
+Routes:
+From City--To City	
+Lahore to Karachi	
+Karachi to Rawalpindi	
+Rawalpindi to Peshawar	
+Peshawar to Multan	
+Multan to	Faisalabad
+Faisalabad to	Quetta	
+Quetta to	Hyderabad	
+Hyderabad	to Gujranwala	
+Gujranwala to	Sialkot	
+Sialkot to Lahore	
+Karachi to Lahore	
+</pre>
 
 ## 📸 Screenshots:
 Screenshots are inside the `Screenshots/` folder and demonstrate:
